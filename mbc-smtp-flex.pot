@@ -1,0 +1,123 @@
+# Copyright (C) 2015 MBC SMTP Flex
+# This file is distributed under the same license as the MBC SMTP Flex package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MBC SMTP Flex 0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mbc-smtp-flex\n"
+"POT-Creation-Date: 2015-12-10 20:11:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: mbc-smtp-flex.php:102
+msgid "On behalf of %s"
+msgstr ""
+
+#: mbc-smtp-flex.php:132
+msgid "Error with fsocketopen"
+msgstr ""
+
+#: mbc-smtp-flex.php:133
+msgid ""
+"fsocketopen is not available for the MBC SMTP Flex plugin to operate. Please "
+"ensure that this function is available and has not been filtered out with "
+"the php.ini setting: `disable_functions`."
+msgstr ""
+
+#: mbc-smtp-flex.php:139
+msgid "MBC SMTP Flex in Sandbox"
+msgstr ""
+
+#: mbc-smtp-flex.php:141
+msgid ""
+"MBC SMTP Flex is running in sandbox mode and is not set to override normal "
+"mail delivery functions. Check the config under %s enable the plugin when "
+"ready."
+msgstr ""
+
+#: mbc-smtp-flex.php:142
+msgid "Settings &rarr; MBC SMTP Flex"
+msgstr ""
+
+#: mbc-smtp-flex.php:161
+msgid "Error connecting to server"
+msgstr ""
+
+#: mbc-smtp-flex.php:162
+msgid ""
+"MBC SMTP Flex is unable to connect to the server at <code>%s</code>. The "
+"following error was received: <code>%s</code>. Verify the server connection "
+"and try again."
+msgstr ""
+
+#: mbc-smtp-flex.php:182
+msgid "MBC SMTP Flex Test Message"
+msgstr ""
+
+#: mbc-smtp-flex.php:183
+msgid "This is a test message issued to you on %s"
+msgstr ""
+
+#: mbc-smtp-flex.php:190
+msgid "Test Looks Good"
+msgstr ""
+
+#: mbc-smtp-flex.php:191
+msgid ""
+"MBC SMTP Flex send an email to %s. Please confirm delivery of that email."
+msgstr ""
+
+#: mbc-smtp-flex.php:195
+msgid "Message failed. Error information below"
+msgstr ""
+
+#: mbc-smtp-flex.php:202
+msgid "Test Failed"
+msgstr ""
+
+#: mbc-smtp-flex.php:203
+msgid "MBC SMTP Flex send an email to %, but it failed."
+msgstr ""
+
+#: mbc-smtp-flex.php:269 mbc-smtp-flex.php:343
+msgid "MBC SMTP Flex Settings"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (MBC SMTP Flex 0.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: mbc-smtp-flex.php:270
+msgid "MBC SMTP Flex"
+msgstr ""
+
+#: mbc-smtp-flex.php:349
+msgid "Send Test Message"
+msgstr ""
+
+#: mbc-smtp-flex.php:353
+msgid "Send a message with deliver details"
+msgstr ""
+
+#: mbc-smtp-flex.php:370
+msgid "Dismiss this notice."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (MBC SMTP Flex 0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (MBC SMTP Flex 0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://bistromatics.com/mbc-smtp-flex"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Use SMTP with authentication to deliver messages from WordPress. Intercepts "
+"wp_mail function to allow you to define the server, port, connection "
+"security and credentials."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mike Block"
+msgstr ""
